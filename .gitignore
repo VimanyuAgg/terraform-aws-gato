@@ -1,0 +1,9 @@
+.terraform
+.idea
+terraform.tfvars
+kodhive-infra.iml
+*.tfstate
+*.backup
+*.zip
+.DS_Store
+
